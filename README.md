@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aleksandra-roguszewska&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aleksandra-roguszewska&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **aleksandra-roguszewska/aleksandra-roguszewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
