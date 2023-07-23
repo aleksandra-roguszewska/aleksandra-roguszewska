@@ -2,16 +2,14 @@
 <h3 align="left">A frontend developer from Poland</h3>
 
 - 🔭 I’m currently working on [Freex - a business platform for UX/UI designers](https://github.com/infoshareacademy/jfdzr11-team-pixelpilots)
-- ⚡ My favourite framework is **React**
 - 🌱 I’m currently learning **Typescript and testing**
-- 📫 How to reach me **ola.roguszewska@gmail.com**
+- 📫 How to reach me [LinkedIn](https://linkedin.com/in/aleksandra-roguszewska)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aleksandra roguszewska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandra roguszewska" height="30" width="40" /></a>
-</p>
-
+<h3 align="left">My projects:</h3>
+<ul>
+<li>Freex - a business platform for UX/UI designers - https://github.com/infoshareacademy/jfdzr11-team-pixelpilots </li>
+<li>Plantlover - an app for houseplants enthusiasts - https://github.com/aleksandra-roguszewska/plant-lover </li>
+</ul>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -43,11 +41,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-
+  </a>  
+  
+<br/><br/>
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandra-roguszewska&show_icons=true&locale=en&layout=compact" alt="aleksandra-roguszewska" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksandra-roguszewska&show_icons=true&locale=en" alt="aleksandra-roguszewska" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandra-roguszewska&" alt="aleksandra-roguszewska" /></p>
 
