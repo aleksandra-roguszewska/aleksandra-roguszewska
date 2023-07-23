@@ -1,14 +1,14 @@
 <h1 align="leftt">Hi 👋, I'm Ola</h1>
 <h3 align="left">A frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Freex - a business platform for UX/UI designers](https://github.com/infoshareacademy/jfdzr11-team-pixelpilots)
-- 🌱 I’m currently learning **Typescript and testing**
+- 🔭 I’m currently working on [Plantlover - an app for houseplants enthusiasts](https://github.com/aleksandra-roguszewska/plant-lover)
+- 💡 I’m currently learning **Typescript and testing**
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/aleksandra-roguszewska)
 
 <h3 align="left">My projects:</h3>
 <ul>
-<li>Freex - a business platform for UX/UI designers - https://github.com/infoshareacademy/jfdzr11-team-pixelpilots </li>
-<li>Plantlover - an app for houseplants enthusiasts - https://github.com/aleksandra-roguszewska/plant-lover </li>
+    <li>🌱 <a href="https://plant-lover-af7dc.web.app/" target="_blank">Plantlover</a> - an app for houseplants enthusiasts - https://github.com/aleksandra-roguszewska/plant-lover </li>
+<li>🚀 <a href="https://freex-5f6e8.firebaseapp.com/" target="_blank">Freex</a> - a business platform for UX/UI designers - https://github.com/infoshareacademy/jfdzr11-team-pixelpilots </li>
 </ul>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -32,6 +32,8 @@
       <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
   </a>
+
+
 
 <h3 align="left">Other skills:</h3>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
